@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&family=Open+Sans&family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital@1&family=Montserrat:wght@200&family=Open+Sans&family=Roboto:wght@100&display=swap');
+
+
+
+.banner {
+  background-image: url(https://source.unsplash.com/random/1000x500);
+  background-size: cover;
+  color: white;
+  padding: 120px 0;
+  size: 18px;
+}
+
+.container h1{
+ font-size: 38px;
+ color: rgb(255, 255, 255);
+ font-weight: bold;
+}
+
+.banner p{
+  font-size: 30px;
+  font-style: italic;
+  font-weight: lighter;
+  opacity: 0.8;
+  font-family: 'Lora', serif;
+}
+
+h2 {
+  color: #A0A0A0;
+  font-weight: bold;
+  display: block;
+  font-size: 1.5em;
+  margin-block-start: 0.83em;
+  margin-block-end: 0.83em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+  font-size: 27px;
+}
+
+h1{
+  font-weight: bold;
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+
+p {
+  font-family: 'Lora', serif;
+
+}
+
+body {
+  color: #494949;
+  font-size: 18px;
+  line-height: 1.6;
+  font-weight: lighter;
+  margin: 0;
+}
+
+.container{
+  width: 50%;
+  margin: auto;
+}
+
+.link-medium {
+  background-color: rgba(233, 253, 240, 1);
+  color: #636363;
+  font-weight: lighter;
+  font-size: 25px;
+  font-family: 'Lora', serif;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+a:hover {
+  background-color: rgb(102, 238, 150);
+}
